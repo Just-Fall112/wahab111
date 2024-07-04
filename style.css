@@ -1,0 +1,135 @@
+body
+	{ 
+		background:white;
+		padding: 0px 0px;
+	  font-family: "Poppins", sans-serif;
+	  font-weight: 400;
+			}
+	
+.least_line
+		{
+			background: #green;
+			font-size: 33px;
+				}
+.five
+			{
+	
+				font-weight:500;
+				font-size: 33px;
+				}
+ .t
+ 		{
+ 				text-align: left;
+ 					}
+ footer
+ 	{
+ 		background-color: #3ABEF9;
+ 		text-decoration: none;
+ 		color: both;
+ }
+  body
+  		{
+  			margin: 0px;
+  			background-color:EFECEC;
+  				}
+ .nave ul li
+ 			{
+ 				list-style: none;
+ 				display: inline-block;
+  			padding: 7px 2px;
+  			position: relative;
+
+  			}
+.nave
+  	{
+  		background:#3B3486;
+  		text-align: center;
+  		margin: 0px ;
+  			
+  	}
+.nave ul li a { 
+  		color:white;
+  		text-decoration: none;
+  		font-size: 20px; 
+  	}
+.primary-heading
+	{
+  	color: white;
+  	background-color: #83B4FF;
+  	text-align: center;
+  	border: black 4px solid;
+  	}
+
+  .ul
+  	{
+	  	border: black 3px solid;
+	  	background-color: #35A29F;
+				}
+	.you
+		{
+			background-color:#FF0000 ;
+			border: 2px solid black;
+			padding: 30px ;
+			font-size: 40px;
+			font-weight:300;
+			color: white;
+			text-align: center;
+				}
+	.good 
+			{
+				background-color:black;
+				margin: 0px;
+			}
+	.good ul li 	
+				{
+					list-style: none;
+ 					display: inline-block;
+  				padding: 7px 2px;
+  				position: relative;
+  					}
+  .good ul li a
+  			 {
+  			 text-decoration: none;
+  			 color: white;  
+  			 }
+  .good ul 
+  			 			{
+  			 				margin: 0px;
+  			 			}
+  .hello 
+  				{
+  					width: 800px;
+  					float: left;
+  					
+  				}
+ p {
+ 		padding: 20px;
+
+ 		}				
+footer
+	 {
+	 		padding: 25px;
+	 		background-color: #01204E;
+	 		color: white;
+	 		font-size: 50px;
+	 	
+	}	
+	.cat 
+			{
+				background: #028391;
+				float: right;
+				width: 150px;
+				height: 400px;
+			
+			}
+.cat ul li a 
+					{
+								text-decoration: none; 
+								color: black;
+								font-size: 20px;
+								font-weight: 400;
+							}
+	.cat ul li 
+							{
+									list-style: none;
+								}						
